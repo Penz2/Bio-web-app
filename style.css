@@ -1,0 +1,26 @@
+body {
+    font-size: 15pt;
+    background: #7FC8F8;
+    padding: 20px;
+    color:white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+p{
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.btn {
+  display: block;
+  color: black;
+  padding: 20px;
+  background: white;
+  margin:16px;
+  box-shadow: 5px 10px #888888;
+}
